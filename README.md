@@ -21,13 +21,12 @@ My goal was to create a SQL-based data exploration project using NBA per-game pl
 
 ## Sample Questions Answered
 
-- Who are the top 10 scorers in the league by PPG?  
-- Which players shoot the best from the 3?  
-- Who are the assist and Rebound leaders?  
+- Who are the top 10 scorers in the league by PPG, APG, and RPG?  
+- Which players shoot the best from the 3?
+- Which players shoot the best from the free throw line? 
 - Which players lead in total PRA?  
 - What players average the most PPG Per36  
 - Who are the top scorers over the age of 33?  
-- And more..
 
 -----
 
