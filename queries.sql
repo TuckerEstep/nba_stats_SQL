@@ -1,4 +1,4 @@
---SAMPLE QUERIES for nba_players_stats
+--SAMPLE QUERIES for nba_stats
 
 
 -- Top 10 Scorers in the League by PPG
