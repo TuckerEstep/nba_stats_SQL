@@ -11,7 +11,7 @@ My goal was to create a SQL-based data exploration project using NBA per-game pl
 
 -----
 
-## How to Use 
+# How to Use 
 1. Create a new database in MySQL Workbench  
 2. Run 'schema.sql' to create the 'nba_stats' table  
 3. Import 'nba_player_stats.csv' into 'nba_stats' table  
@@ -19,7 +19,7 @@ My goal was to create a SQL-based data exploration project using NBA per-game pl
 
 -----
 
-## Sample Questions Answered
+# Sample Questions Answered
 
 - Who are the top 10 scorers in the league by PPG, APG, and RPG?  
 - Which players shoot the best from the 3?
@@ -67,6 +67,19 @@ My goal was to create a SQL-based data exploration project using NBA per-game pl
 9. Full Dashboard
 ![Full Dashboard](images/nba_stats_dashboard.png)
 
+-----
+
+# Links to Tableau Dashboards
+
+- [Top 10 PPG](https://public.tableau.com/app/profile/tucker.estep/viz/TopTenPPG/Top10PPG)
+- [Top 10 Per 36 PPG](https://public.tableau.com/app/profile/tucker.estep/viz/TopTenPer36PPG/Top10Per36PPG)
+- [Top 10 PRA](https://public.tableau.com/app/profile/tucker.estep/viz/TopTenPRA/Top10PRA)
+- [Top 10 Stocks](https://public.tableau.com/app/profile/tucker.estep/viz/TopTenStocks/Top10Stocks)
+- [Top 10 APG](https://public.tableau.com/app/profile/tucker.estep/viz/TopTenAPG_17533002351570/Top10APG)
+- [Top 10 3PT Shooters](https://public.tableau.com/app/profile/tucker.estep/viz/TopTen3Pt/Top103Pt)
+- [Top 10 FT%](https://public.tableau.com/app/profile/tucker.estep/viz/Top10FT/Top10FT)
+- [Top 10 PPG (Age 33+)](https://public.tableau.com/app/profile/tucker.estep/viz/33YearsorOlderTop10PPG/33YearsorOlderTop10PPG)
+- [Full Tableau Dashboard (All Charts)](https://public.tableau.com/app/profile/tucker.estep/viz/nba_stats_te/nba_stats_dashboard)
 
 -----
 
