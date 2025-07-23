@@ -5,7 +5,7 @@ My goal was to create a SQL-based data exploration project using NBA per-game pl
 -----
 
 # Files Included
--nba_player_stats.csv - Cleaned dataset of NBA player per game stats for the 2024-25 regular season
+-nba_stats.csv - Cleaned dataset of NBA player per game stats for the 2024-25 regular season
 -schema.sql - SQL schema to define the 'nba_stats' table
 -queries.sql - Sample SQL queries for different insights (Top scorers, best shooters, PRA leaders, etc.)
 
