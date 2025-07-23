@@ -35,7 +35,11 @@ My goal was to create a SQL-based data exploration project using NBA per-game pl
 - MySQL Workbench  
 - Github  
 - Kaggle.com  
-- *hopefully soon* Tableau for future data visualization
+- Tableau
+
+-----
+
+# Sample Visualization
 
 -----
 
