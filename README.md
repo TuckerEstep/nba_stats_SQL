@@ -39,7 +39,34 @@ My goal was to create a SQL-based data exploration project using NBA per-game pl
 
 -----
 
-# Sample Visualization
+# Sample Visualization (Tableau Dashboards)
+1. Top 10 Points Per Game
+![Top 10 PPG](images/top_10_ppg.png)
+
+2. Top 10 Per 36 PPG
+![Top 10 Per36 PPG](images/top_10_per36.png)
+
+3. Top 10 PRA (Points + Rebounds + Assists)
+![Top 10 PRA](images/top_10_pra.png)
+
+4. Top 10 Stocks (Steals + Blocks)
+![Top 10 Stocks](images/top_10_stocks.png)
+
+5. Top 10 Assists Per Game
+![Top 10 APG](images/top_10_apg.png)
+
+6. Top 10 3PT Shooters
+![Top 10 3PT](images/top_10_3pt.png)
+
+7. Top 10 Free Throw Shooters
+![Top 10 FT%](images/top_10_ft.png)
+
+8. Top 10 PPG (Age 33+)
+![Top 10 PPG Age 33+](images/top_10_ppg_33years.png)
+
+9. Full Dashboard
+![Full Dashboard](images/nba_stats_dashboard.png)
+
 
 -----
 
