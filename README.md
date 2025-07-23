@@ -14,7 +14,7 @@ My goal was to create a SQL-based data exploration project using NBA per-game pl
 # How to Use 
 1. Create a new database in MySQL Workbench  
 2. Run 'schema.sql' to create the 'nba_stats' table  
-3. Import 'nba_player_stats.csv' into 'nba_stats' table  
+3. Import 'nba_stats.csv' into 'nba_stats' table  
 4. Run sample queries from 'queries.sql' or your own queries to explore the data
 
 -----
