@@ -20,12 +20,6 @@ FROM nba_stats
 ORDER BY AST DESC
 LIMIT 10;
 
--- Best Rebounders by RPG
-SELECT Player, Team, TRB
-FROM nba_stats
-ORDER BY TRB DESC
-LIMIT 10;
-
 -- Most "Stocks" (Steals + Blocks) Per Game
 SELECT Player, STL, BLK, 
        ROUND(STL + BLK, 1) AS Stocks
@@ -54,4 +48,11 @@ SELECT Player, Age, PTS
 FROM nba_stats
 WHERE Age >= 33
 ORDER BY PTS DESC
+LIMIT 10;
+
+--Players with the highest FT% (Min 3 FTA per game)--
+SELECT Player, FT_percent, FTA
+FROM nba_stats
+WHERE FTA >= 3
+ORDER BY FT_percent DESC
 LIMIT 10;
